@@ -4,7 +4,7 @@ This is a extension which user can use to search any selected text with a simple
 
 ## Demo Video of the application
 
-https://github.com/somenath203/TextSearch-Chrome-Extension/assets/81456073/88e8bd0e-fbc0-470e-abc6-d82caa6f0ad2
+https://github.com/somenath203/TextSearch-Chrome-Extension/assets/81456073/e6bb3128-9e84-4f38-a720-01392f6f128a
 
 ## Chrome Web Store
 
