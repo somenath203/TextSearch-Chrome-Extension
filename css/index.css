@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+}
+
+.content {
+  padding: 50px;
+  width: 450px;
+  background: #FFF8DB;
+}
+
+.content label {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.content select {
+  margin: 0;
+  padding: 5px;
+  width: 100%;
+}
